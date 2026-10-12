@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rohit-ydv799/Leetcode/tree/master/0058-length-of-last-word) |
 | [3913-sort-vowels-by-frequency](https://github.com/rohit-ydv799/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Sorting
 |  |
