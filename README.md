@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit-ydv799/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rohit-ydv799/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/rohit-ydv799/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
