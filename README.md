@@ -31,6 +31,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rohit-ydv799/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rohit-ydv799/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rohit-ydv799/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rohit-ydv799/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
