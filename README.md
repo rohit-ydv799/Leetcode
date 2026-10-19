@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohit-ydv799/Leetcode/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/rohit-ydv799/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
