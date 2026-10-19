@@ -9,6 +9,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rohit-ydv799/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3913-sort-vowels-by-frequency](https://github.com/rohit-ydv799/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting
 |  |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/rohit-ydv799/Leetcode/tree/master/2235-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rohit-ydv799/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rohit-ydv799/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
