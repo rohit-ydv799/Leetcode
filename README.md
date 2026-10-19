@@ -57,9 +57,14 @@
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rohit-ydv799/Leetcode/tree/master/0137-single-number-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohit-ydv799/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohit-ydv799/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/rohit-ydv799/Leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
