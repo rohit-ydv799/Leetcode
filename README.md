@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohit-ydv799/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/rohit-ydv799/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rohit-ydv799/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohit-ydv799/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/rohit-ydv799/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rohit-ydv799/Leetcode/tree/master/0137-single-number-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rohit-ydv799/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
